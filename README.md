@@ -305,3 +305,5 @@ git clone https://github.com/occlum/enable_rdfsbase.git
 cd enable_rdfsbase 
 make && make install
 ```
+
+**Apologies for the limitation in length. Due to the constraints on the amount of information that can be displayed here, if you encounter any other unresolved issues, you can refer to the link Case [Study | Bool Network ](https://docs.bool.network/user-guide/beta-testnet/node-setup/case-study) for more information.**
