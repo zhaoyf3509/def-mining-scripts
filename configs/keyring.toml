@@ -23,3 +23,7 @@ only_global_ips = true
 protocol_id = "betatestnet"
 # External address that other nodes will use to connect to this node. optional
 #external_multiaddrs = ["/ip4/127.0.0.1/tcp/38700"]
+
+[prime_factory_config]
+threads = 5
+target = 500
